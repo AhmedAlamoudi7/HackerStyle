@@ -25,5 +25,5 @@ ____                         _    _                        _
 # HackerStyle2021
 hacking art Style in your tool  
 
-# develop by python 
+# develop by python .
 
